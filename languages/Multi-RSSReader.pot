@@ -1,0 +1,218 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Multi-RSS Reader\n"
+"POT-Creation-Date: 2013-08-13 18:16+0900\n"
+"PO-Revision-Date: 2013-08-16 21:45+0900\n"
+"Last-Translator: TKI\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+# @ multi_rss_reader
+#: Multi-RSS-Reader.php:31
+msgid "Show in time order RSS headlines multiple readers"
+msgstr "複数のRSSリーダーの見出しを時系列順に表示"
+
+# @ multi_rss_reader
+#: Multi-RSS-Reader.php:104
+msgid "You do not have sufficient permissions to access this page."
+msgstr "権限がないため、表示できません。"
+
+# @ multi_rss_reader
+#: Multi-RSS-Reader.php:114
+msgid "There is no {lists}."
+msgstr "{lists}がありません。"
+
+# @ multi_rss_reader
+#: Multi-RSS-Reader.php:127
+msgid "There is no one {title} {link} {description} of here."
+msgstr "{title}{link}{description}のいずれもありません。"
+
+# @ multi_rss_reader
+#: Multi-RSS-Reader.php:139
+msgid "Settings"
+msgstr "設定"
+
+# @ multi_rss_reader
+#: Multi-RSS-Reader.php:142
+msgid "Please set each settings at the appearance page of widget."
+msgstr "各設定は外観のウィジェットページから設定してください。"
+
+# @ multi_rss_reader
+#: Multi-RSS-Reader.php:144
+msgid "Do you back to the input before the entire entry?"
+msgstr "全入力内容を入力前に戻しますか？"
+
+# @ multi_rss_reader
+#: Multi-RSS-Reader.php:150
+msgid "The entire list format"
+msgstr "リスト全体フォーマット"
+
+# @ multi_rss_reader
+#: Multi-RSS-Reader.php:151
+msgid ""
+"{lists} is replaced  by multiple rss articles through the below template."
+msgstr "{lists}が以下のテンプレートを通して複数個のRSSに置き換わります。"
+
+# @ multi_rss_reader
+#: Multi-RSS-Reader.php:156
+msgid "each article format"
+msgstr "個別リストフォーマット"
+
+# @ multi_rss_reader
+#: Multi-RSS-Reader.php:157
+msgid "The format of every single RSS article."
+msgstr "ひとつひとつのRSS記事のフォーマットです"
+
+# @ multi_rss_reader
+#: Multi-RSS-Reader.php:159
+msgid "You can use these.{title}{link}{date}"
+msgstr "これらが使えます。{title}{link}{date}"
+
+# @ multi_rss_reader
+#: Multi-RSS-Reader.php:166
+msgid "Article Title Exclude REpattern"
+msgstr "除外する記事タイトルパターン"
+
+# @ multi_rss_reader
+#: Multi-RSS-Reader.php:171
+msgid "save"
+msgstr "保存"
+
+# @ multi_rss_reader
+#: Multi-RSS-Reader.php:173
+msgid "Do you return to initial value of all entry?"
+msgstr "全入力内容を初期値に戻しますか？"
+
+# @ multi_rss_reader
+#: Multi-RSS-Reader.php:174
+msgid "initialization"
+msgstr "初期化"
+
+# @ multi_rss_reader
+#: Multi-RSS-Reader.php:175
+msgid "reset"
+msgstr "リセット"
+
+# 未使用@ multi_rss_reader
+#: Multi-RSS-Reader.php:184
+msgid "ago"
+msgstr "前"
+
+# 未使用@ multi_rss_reader
+#: Multi-RSS-Reader.php:185
+msgid "minutes"
+msgstr "分"
+
+# 未使用@ multi_rss_reader
+#: Multi-RSS-Reader.php:186
+msgid "hours"
+msgstr "時間"
+
+# 未使用@ multi_rss_reader
+#: Multi-RSS-Reader.php:
+msgid "days"
+msgstr "日"
+
+# @ multi_rss_reader
+#: Multi-RSS-Reader.php:222
+msgid "title"
+msgstr "タイトル"
+
+# @ multi_rss_reader
+#: Multi-RSS-Reader.php:224
+msgid "number of topics to be displayed"
+msgstr "表示する件数"
+
+# @ multi_rss_reader
+#: Multi-RSS-Reader.php:226
+msgid "cache time(min)"
+msgstr "キャッシュ時間(分)"
+
+# @ multi_rss_reader
+#: Multi-RSS-Reader.php:228
+msgid "Number of characters per an article"
+msgstr "本文文字数/１記事"
+
+# @ multi_rss_reader
+#: Multi-RSS-Reader.php:230
+msgid "Trailing chars of the article when cutting"
+msgstr "記事カット時の後続文字"
+
+# @ multi_rss_reader
+#: Multi-RSS-Reader.php:233
+msgid "date format"
+msgstr "日付フォーマット"
+
+# @ multi_rss_reader
+#: Multi-RSS-Reader.php:267
+msgid "Title is blank. Return to its initial value."
+msgstr "タイトルが空白です。元の値に戻します。"
+
+# @ multi_rss_reader
+#: Multi-RSS-Reader.php:271
+msgid "value is out of range"
+msgstr "範囲外の値です"
+
+# @ multi_rss_reader
+#: Multi-RSS-Reader.php:283
+msgid "It is blank. Return to its initial value."
+msgstr "空白です。元の値に戻します。"
+
+# 未使用@ multi_rss_reader
+#: Multi-RSS-Reader.php:296
+msgid "first rss-url may be wrong."
+msgstr "1番目のrss urlは誤りのようです。"
+
+# 未使用@ multi_rss_reader
+#: Multi-RSS-Reader.php:296
+msgid "%1$dth rss-url may be wrong."
+msgstr "%1$d番目のrss urlは誤りのようです。"
+
+# 未使用@ multi_rss_reader
+#: Multi-RSS-Reader.php:405
+msgid "minute"
+msgstr "分"
+
+# 未使用@ multi_rss_reader
+#: Multi-RSS-Reader.php:408
+msgid "hour"
+msgstr "時間"
+
+# 未使用@ multi_rss_reader
+#: Multi-RSS-Reader.php:411
+msgid "day"
+msgstr "日"
+
+# 未使用@ multi_rss_reader
+#: Multi-RSS-Reader.php:414
+msgid "month"
+msgstr "月"
+
+# 未使用@ multi_rss_reader
+#: Multi-RSS-Reader.php:414
+msgid "months"
+msgstr "月"
+
+# 未使用@ multi_rss_reader
+#: Multi-RSS-Reader.php:417
+msgid "year"
+msgstr "年"
+
+# 未使用@ multi_rss_reader
+#: Multi-RSS-Reader.php:417
+msgid "years"
+msgstr "年"
+
+# @ multi_rss_reader
+#: Multi-RSS-Reader.php:447
+msgid "no rss resouces"
+msgstr "rss情報がありません"
